@@ -17,7 +17,7 @@
 
 ```
 git clone https://github.com/dps-github-innov/DPS-Quickstart.git
-cd firebase-android-sdk
+cd DPS-Quickstart
 git checkout -b {branch_name}
 
 ```
